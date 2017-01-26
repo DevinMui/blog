@@ -10,7 +10,7 @@ title:            'Devin Mui'
 tagline:          'A random blog about programming'
 description:      'Just a simple high school student interested in programming'
 url:              http://devinmui.xyz/blog
-baseurl:          /
+baseurl:          /blog/
 
 author:
   name:           'Devin Mui'
