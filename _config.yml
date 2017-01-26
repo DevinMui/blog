@@ -9,7 +9,7 @@ permalink:        pretty
 title:            'Devin Mui'
 tagline:          'A random blog about programming'
 description:      'Just a simple high school student interested in programming'
-url:              http://devinmui.xyz/blog
+url:              http://www.devinmui.xyz/blog
 baseurl:          /blog/
 
 author:
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/devinmui/blog
+  repo:           https://www.github.com/devinmui/blog
