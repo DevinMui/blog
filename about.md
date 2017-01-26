@@ -3,28 +3,28 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hey! I'm Devin Mui
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+![Devin Mui](https://avatars2.githubusercontent.com/u/8474302?v=3)
 
-There are currently two themes built on Poole:
+I'm a high school student enthusiastic about programming, robotics, AI, and much much more! Currently, I lead our school's projects club as Software Director.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+At the moment, I know these things pretty well:
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* Javascript
+* Python
+* Ruby on Rails
+* Arduino
+* C/C++
+* Android development
 
-## Setup
+And I've dabbed in a bunch of other things too:
 
-Some fun facts about the setup of this project include:
+* OpenCV
+* machine learning
+* Hardware development
+* CUDA
+* AWS
+* a few other things that aren't worth putting on this list
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Questions? Contact me @ <a href="emailto:devinmui@yahoo.com">devinmui@yahoo.com</a>
